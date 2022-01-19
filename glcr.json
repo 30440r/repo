@@ -1,0 +1,17 @@
+{
+    "info": {
+        "name": "30440r's Repo",
+        "maintainer": "30440r"
+    },
+    "themes": [
+        {
+            "name": "34reme",
+            "author": "30440r",
+            "url": "http://30440r.xyz/shit/34reme.zip"
+            
+            "name": "Felicity Pro Mirror",
+            "author": "xerusdesign",
+            "url": "https://repo.s0n1c.ca/themes/felicity.zip"
+        }
+    ]
+}
