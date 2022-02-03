@@ -1,0 +1,11 @@
+{
+    "name": "30440r's Repo",
+    "description": "all of 30440r's tweaks/themes",
+    "tint": "535352",
+    "cname": "30440r.xyz/repo",
+    "maintainer": {
+        "name": "30440r",
+        "email": "30440r@tuta.io"
+    },
+    "automatic_git": "false"
+}
