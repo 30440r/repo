@@ -1,8 +1,0 @@
-Origin: 30440r
-Label: 30440r
-Suite: stable
-Version: 1.0
-Codename: cydia-ios
-Architectures: iphoneos-arm
-Components: main
-Description: 30440r's Repo
